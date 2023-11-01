@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+
 <!--
 **daki-atahwalp-antango-boad/daki-atahwalp-antango-boad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
